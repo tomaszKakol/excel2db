@@ -5,7 +5,7 @@ Example of scripts that convert data from .xls to .db files
 An example of the use of neural networks for text detection
 An example of the presentation of data contained in the .db file
 
-Pobierz plik: 
+Download file: 
 frozen_east_text_detection.pb
 e.g. from https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb
 
